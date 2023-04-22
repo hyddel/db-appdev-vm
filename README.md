@@ -13,7 +13,7 @@ There are several directories which are used in the build
 Clone the repository in OCI Cloud Shell: [![Clone in Cloud Shell](https://github.com/hyddel/db-appdev-vm/blob/master/ccl-csh-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaasehucyhfk3e4vquynnpn5aiahxynizti7asmjyggghner5dfjl3q&cs_repo_url=https://github.com/oracle-samples/db-appdev-vm.git&cs_readme_path=README.md&cs_branch=master&cs_initscript_path=start.sh)
 
 
-Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/hyddel/db-appdev-vm/blob/master/ccl-image-3.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaasehucyhfk3e4vquynnpn5aiahxynizti7asmjyggghner5dfjl3q&cs_repo_url=https://github.com/oracle-samples/db-appdev-vm.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=master&cs_initscript_path=start.sh)
+Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/hyddel/db-appdev-vm/blob/master/ccl-ce-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaasehucyhfk3e4vquynnpn5aiahxynizti7asmjyggghner5dfjl3q&cs_repo_url=https://github.com/oracle-samples/db-appdev-vm.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=master&cs_initscript_path=start.sh)
 
 Mandatory Downloads
 -------------------

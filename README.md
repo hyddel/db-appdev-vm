@@ -17,7 +17,10 @@ Clone the repository in OCI Cloud Shell: [![Clone in Cloud Shell](https://github
 
 Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/hyddel/db-appdev-vm/blob/master/ccl-ce-mac-resize.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaau2kvkmgovgfzrfnuhh47x3kxmtkuqe6hzsfby5yst2hhr5comnda&cs_repo_url=https://github.com/oracle-samples/db-appdev-vm.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=master&cs_initscript_path=start.sh)
 
-
+<a href="https://cloud.oracle.com/?region=us-ashburn-1&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaau2kvkmgovgfzrfnuhh47x3kxmtkuqe6hzsfby5yst2hhr5comnda&cs_repo_url=https://github.com/oracle-samples/db-appdev-vm.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=master&cs_initscript_path=start.sh" target="_blank" rel="noopener noreferrer">
+  <img alt="Open in Code Editor" src ="https://github.com/hyddel/db-appdev-vm/blob/master/ccl-ce-mac-resize.png?raw=true">
+  </a>
+  
 Mandatory Downloads
 -------------------
 **These two downloads are mandatory**.  If they are not here, the build will not start.
